@@ -1,0 +1,9 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.5.4f1
+CRC: 2112412218
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: fpsgame-jogo-fresh.bundle
+      Dependencies: {}
